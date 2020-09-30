@@ -6,4 +6,4 @@ However, with the early detection of skin cancer, the survival rate and effecien
 Its a binary classification deep learning problem. 
 
 
-The dataset has been collected from International skin Collabration Imaging Center. Educational Purpose ONLY. 
+The dataset has been collected from the database of International skin Collabration Imaging Center. It consists of more than 10,000 skin pictures. 
